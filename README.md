@@ -1,2 +1,2 @@
 # Simple-Card
-Card simples, animações feitas com JS puro.
+Card simples, animações feitas com CSS & JS puro.
